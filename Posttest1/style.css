@@ -49,19 +49,6 @@ ul, a{
     text-align: center;
 }
 
-#boxes{
-    margin-top: 60px;
-}
-#boxes .box{
-    float: left;
-    text-align: center;
-    width: 30%;
-    padding: 15px;
-}
-#boxes .box img{
-    width: 100px;
-}
-
 form {
     background-color: rgb(232, 215, 189);
     padding: 20px 40px 40px 40px;
